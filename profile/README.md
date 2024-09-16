@@ -1,5 +1,5 @@
 # Drew Anki Decks
-A collection of Anki decks to study for classes at [Drew School](https://www.drewschool.org/)
+A collection of Anki decks to study for classes at [Drew School](https://www.drewschool.org/).
 
 Anki is a flashcard program that uses [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and [active recall testing](https://en.wikipedia.org/wiki/Recall_test) to help users remember things faster and longer.
 
