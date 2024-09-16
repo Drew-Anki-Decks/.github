@@ -9,4 +9,4 @@ If you are a student, feel free to contribute! If you find inaccurate informatio
 ## Contact
 If you are a teacher or administrator and would like to have notes of your class taken down or have a problem with notes being avalible online, please contact: `verysaltypickles@gmail.com`.
 
-*We are in no way affiliated with Drew School*
+*We are not affiliated with Drew School*
