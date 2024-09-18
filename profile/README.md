@@ -4,7 +4,7 @@ An **unofficial** collection of Anki decks to study for classes at [Drew School]
 Anki is a flashcard program that uses [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) and [active recall testing](https://en.wikipedia.org/wiki/Recall_test) to help users remember things faster and longer.
 
 ## Students
-If you are a student, feel free to contribute! If you find inaccurate information, update and export the deck, and put in a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to add it to the decks. If you are studying for a test, create a new deck and put in a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). If you have any questions or need technical help, please make a discussion in the github orginization.
+If you are a student, feel free to contribute! If you find inaccurate information, update and export the deck, and put in a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) to add it to the decks. If you are studying for a test, create a new deck and put in a [PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). If you have any questions or need technical help, look [here](https://github.com/orgs/Drew-Anki-Decks/discussions/1).
 
 Please **do not** use this as a replacement for paying attention or participating in class, this is only a resource to study and get a better understanding of the class.
 
